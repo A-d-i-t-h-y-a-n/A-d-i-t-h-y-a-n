@@ -17,7 +17,7 @@ const adithyan = {
 ## stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,py,kotlin,react,nodejs,nextjs,express,mongodb,postgres,docker,git,linux,android&theme=dark&perline=8" />
+  <img src="https://skillicons.dev/icons?i=js,ts,py,go,css,html,react,nodejs,nextjs,express,mongodb,postgres,docker,git,linux,android&theme=dark&perline=8" />
 </p>
 
 ## stats
